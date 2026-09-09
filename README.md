@@ -13,6 +13,7 @@ This project uses Deep Learning and OpenCV to detect human emotions from facial 
 - Detection.ipynb
 - emotion_detection_model.h5
 - haarcascade_frontalface_default.xml
+- EmotionZip.ipynb
 
 ## Features
 - Face detection using Haar Cascade
